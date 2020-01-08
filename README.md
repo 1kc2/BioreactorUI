@@ -20,7 +20,7 @@ The UI is run by running the `controller.py` file but keep in mind that an Energ
 
 _As a side note: the system can detect the serial port being used by the MSP432 board at runtime depending on the operating system of the PC._
 * _Windows: **COM34**_
-* _Linux: **/dev/ttyACM0**_
+* _Linux/Mac: **/dev/ttyACM0**_
 
 
 
